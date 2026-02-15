@@ -1,4 +1,3 @@
 # Calculating-Differential-Methylation
-This is the typical formula used for site specific regions.
-Ensure the total number of CpG sites in your region of interest has been pre-calculated. 
-Total CpG sites has been denoted as Y in the formula and will need to be manually inserted.
+The Differential Methylation Analysis Demo Shows how to calculate site specific differential methylation. 
+This is appropriate for comparing the same genomic regions between two samples.
